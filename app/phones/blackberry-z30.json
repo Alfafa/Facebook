@@ -1,0 +1,62 @@
+{
+    "additionalFeatures": "Adobe Flash Player 10, Quadband GSM Worldphone, Advance Business Security, Complex Password Secure, Review & Edit Documents with Quick Office, Personal 3G Mobile Hotspot for up to 5 WiFi enabled Devices, Advanced Social Networking brings all social content into a single homescreen widget", 
+    "android": {
+        "os": "Blackberry 10", 
+        "ui": ""
+    }, 
+    "availability": [
+        "Verizon"
+    ], 
+    "battery": {
+        "standbyTime": "230 hours", 
+        "talkTime": "8 hours", 
+        "type": "Lithium Ion (Li-Ion) (1400 mAH)"
+    }, 
+    "camera": {
+        "features": [
+            "Flash", 
+            "Video"
+        ], 
+        "primary": "8.0 megapixels"
+    }, 
+    "connectivity": {
+        "bluetooth": "version 4", 
+        "cell": "WCDMA 850/1900/2100, CDMA 800/1900, GSM 850/900/1800/1900, HSDPA 10.2 Mbps (Category 9/10), CDMA EV-DO Release A, EDGE Class 12, GPRS Class 12, HSUPA 1.8 Mbps", 
+        "gps": true, 
+        "infrared": false, 
+        "wifi": "802.11 b/g/n"
+        "NFC": "true"
+    }, 
+    "description": "With Quad Band GSM.", 
+    "display": {
+        "screenResolution": "720 x 1280", 
+        "screenSize": "5 inches", 
+        "touchScreen": true
+    }, 
+    "hardware": {
+        "accelerometer": true, 
+        "audioJack": "3.5mm", 
+        "cpu": "Dual core 1.7 GHz Krait", 
+        "fmRadio": false,  
+        "usb": "USB 2.0"
+    }, 
+    "id": "Z30-by-Blackberry", 
+    "images": [
+        "img/phones/blackberry-Z30.jpg", 
+        "img/phones/droid-2-global-by-motorola.1.jpg", 
+        
+    ], 
+    "name": "Blackberry by RIM", 
+    "sizeAndWeight": {
+        "dimensions": [
+            "72 mm (w)", 
+            "140.7 mm (h)", 
+            "9.4 mm (d)"
+        ], 
+        "weight": "170.0 grams"
+    }, 
+    "storage": {
+        "flash": "16GB", 
+        "ram": "2GB"
+    }
+}
