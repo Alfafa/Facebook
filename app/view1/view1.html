@@ -1,0 +1,49 @@
+
+		<p>This is the partial for view 1.</p>
+    
+      
+        
+          <form>
+            
+            
+            <p>Enter your BirthDay</p>
+
+              <input type="text" class="form-control" placeholder="Day Month Year" ng-model="fb.day" name="day">
+
+              <p>Enter Gender </p>
+
+             <p> <input id ="gender" type="text" class="form-control" ng-model="fb.gender" name="gender"> </p>
+              
+          </form>
+          
+
+          <div id="status">
+
+          </div>
+
+          <div id="fb-root">
+
+          </div>
+          <fb:login-button scope="public_profile,email" onlogin="checkLoginState();">
+            </fb:login-button>
+
+      <div ng-controller="View1Ctrl">  
+        <div class="col-sm-6" ng-repeat="fb in fbs">
+            <p> {{fb.day}}</p>
+            <p> {{sex}}</p>
+            <p> {{fb.names}}</p>
+            <p> {{fb.gender}}</p>
+            <p>{{fb| transitionName}}</p>
+        </div>
+      </div>  
+      
+  
+    
+      
+		
+      
+
+   
+
+      
+	 
